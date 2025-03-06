@@ -35,20 +35,17 @@ Este é um exercício prático onde desenvolvemos uma interface de **smartphone 
 
 ## 🚀 Tecnologias utilizadas  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-</div>  
 
 - **HTML5** - Estruturação da página  
 - **CSS3** - Estilização e responsividade  
 
 ---
 
-## 📂 Como executar o projeto?  
+## 📩 Contato  
 
-1️⃣ Clone este repositório:  
-```bash
-git clone https://github.com/seuusuario/smartphone-redes-sociais.git
+📧 **Email:** [vitorassis997@gmail.com](mailto:seuemail@email.com)  
+👨‍💻 **GitHub:** [github.com/vitorhassis](https://github.com/seuusuario)  
 
+---
+
+<p align="center">⚡ <em>Desenvolvido por Vitor Assis</em> ⚡</p>
