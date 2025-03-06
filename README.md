@@ -1,4 +1,4 @@
-# 📱 Smartphone - Redes Sociais  
+# <h2 align="center">📱 Smartphone - Redes Sociais 📱</h2>
 
 
 ---
@@ -36,8 +36,8 @@ Este é um exercício prático onde desenvolvemos uma interface de **smartphone 
 ## 🚀 Tecnologias utilizadas  
 
 
-- **HTML5** - Estruturação da página  
-- **CSS3** - Estilização e responsividade  
+- ✅ **HTML5** - Estruturação da página  
+- ✅ **CSS3** - Estilização e responsividade  
 
 ---
 
