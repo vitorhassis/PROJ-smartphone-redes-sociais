@@ -19,7 +19,7 @@ Este é um exercício prático onde desenvolvemos uma interface de **smartphone 
 
 ---
 
-## 📷 Capturas de tela  
+<h2 align="center">📷 Demonstração 📷</h2>  
 
 <div align="center">
   <img height="500" src="https://github.com/user-attachments/assets/25740667-e06b-44ed-a58a-6df24fde9bd9" />
